@@ -1,0 +1,7 @@
+/node_modules
+build
+ormconfig.js
+.env
+package-lock.json
+ormlogs.log
+/.idea
